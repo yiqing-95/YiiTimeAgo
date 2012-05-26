@@ -3,3 +3,7 @@ i  will keep the version same to the original jquery timeago plugin(https://gith
 
 #main enhance for supporting the locale .
 now the locale message will confirm to your language setting in the config/main.php file .
+if you can't find the locale file according to your language just create it yourself and put it in the locales folder .
+ note the locale file name  will be such format "jquery.timeago.{$canonicalLocalId}.js"
+
+ #canonicalLocalId : In canonical form, a locale ID consists of only underscores and lower-case letters.

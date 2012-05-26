@@ -1,0 +1,5 @@
+version 0.11.3
+i  will keep the version same to the original jquery timeago plugin(https://github.com/rmm5t/jquery-timeago)
+
+#main enhance for supporting the locale .
+now the locale message will confirm to your language setting in the config/main.php file .
